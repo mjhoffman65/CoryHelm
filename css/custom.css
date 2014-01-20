@@ -1,3 +1,16 @@
+h1,h2{
+	text-align: center;
+	color:#ffffff
+}
+
+p{
+	color:#ffffff
+}
+
+body{
+	background: black
+}
+
 .item-inner{
 	text-align:center;
 	img{
