@@ -1,0 +1,2 @@
+upload:
+	git ftp push
