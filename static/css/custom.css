@@ -5,6 +5,8 @@ h1,h2{
 
 .job-listing{
 	color: #add8e6;
+	max-width: 100%;
+	width: 100%;
 }
 
 p{
